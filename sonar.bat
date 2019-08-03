@@ -1,0 +1,1 @@
+mvn sonar:sonar -D sonar.host.url=http://10.101.58.53:9000  -D sonar.login=6a616a9aed6db1e5994a10f23df7e26e83a59803

@@ -1,0 +1,12 @@
+### Non-submission of documents ###
+
+/*/target
+/**/.idea
+/**/.settings
+/**/cache
+/**/data
+/**/.project
+/**/.classpath
+/**/.springBeans
+
+**/**/*.iml
